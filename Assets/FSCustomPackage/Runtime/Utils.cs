@@ -16,5 +16,10 @@ namespace CustomPackage
             Debug.Log("Hello World!!!");
         }
 
+        public static void ThirdFunction()
+        {
+
+        }
+
     }
 }
