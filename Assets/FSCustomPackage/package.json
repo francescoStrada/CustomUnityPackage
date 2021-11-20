@@ -1,6 +1,6 @@
 {
   "name": "com.fs.custom-package",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "displayName": "FS Custom Package",
   "description": "This is my first custom package",
   "unity": "2020.3",
@@ -18,5 +18,12 @@
     "name": "Francesco",
     "email": "francesco.strada@polito.it",
     "url": "https://www.unity3d.com"
-  }
+  },
+  "samples": [
+        {
+            "displayName": "My First Sample",
+            "description": "Contains a very stupid sample",
+            "path": "Samples/FirstSample"
+        }
+    ]
 }

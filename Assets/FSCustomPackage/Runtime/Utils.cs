@@ -10,5 +10,11 @@ namespace CustomPackage
         {
             Debug.Log("A very stupid function");
         }
+
+        public static void HelloWorld()
+        {
+            Debug.Log("Hello World!!!");
+        }
+
     }
 }
