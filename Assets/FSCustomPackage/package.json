@@ -1,0 +1,22 @@
+{
+  "name": "com.fs.custom-package",
+  "version": "1.0.0",
+  "displayName": "FS Custom Package",
+  "description": "This is my first custom package",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {},
+ "keywords": [
+    "Custom",
+    "First",
+    "Set"
+  ],
+  "author": {
+    "name": "Francesco",
+    "email": "francesco.strada@polito.it",
+    "url": "https://www.unity3d.com"
+  }
+}
